@@ -1,6 +1,8 @@
 # CodeInjector
 This is a very powerful Linux program used to inject any kind of code you want into the target's web browser.
+
 Only works with HTTP at the moment.
+
 HTTPS/Windows version coming soon...
 
 Change injection_code variable at line 32 with any code you want.
@@ -14,6 +16,7 @@ If you want to test the program on your own machine use:
 then execute the program in the linux terminal by typing: python code_injector.py
 
 If you want to test it while being the MITM (use arpspoofer.py) then you ll need to use the following commands before executing any python program:
+
 Use:
 
 >iptables --flush
