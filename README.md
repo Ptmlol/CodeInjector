@@ -1,9 +1,9 @@
 # CodeInjector
-This is a very powerful Linux program used to inject any kind of code you want into the target's web browser.
+This is a very powerful program used to inject any kind of code you want into the target's web browser.
 
-Only works with HTTP at the moment.
+Works with Linux/Windows. Make sure you have interpreter and libraries installed.
 
-HTTPS/Windows version coming soon...
+Use sslstrip for certain HTTPS websites.
 
 Change injection_code variable at line 32 with any code you want.
 
